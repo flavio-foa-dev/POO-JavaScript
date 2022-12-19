@@ -1,0 +1,19 @@
+{
+  "name": "poo-javascript",
+  "version": "1.0.0",
+  "description": "POO-JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flavio-foa-dev/POO-JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flavio-foa-dev/POO-JavaScript/issues"
+  },
+  "homepage": "https://github.com/flavio-foa-dev/POO-JavaScript#readme"
+}
