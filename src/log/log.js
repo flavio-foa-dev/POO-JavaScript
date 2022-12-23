@@ -28,3 +28,18 @@ console.table([
   { name:"fulano de tal", age: 30}
 ])
 
+let lista = [10,1, 5, 9, 8, 12, 15];
+lista = lista.sort()
+console.log(lista)
+
+
+function comparaNumeros(a,b) {
+  if (a == b) return 0; // e igual
+  if (a < b) return -1; // e monor
+  if (a > b) return 1; // e maior
+}
+
+lista = lista.sort(comparaNumeros)
+console.log(lista)
+
+lista.sort((a, b) => a - b)
